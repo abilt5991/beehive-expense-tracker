@@ -37,4 +37,7 @@ This repository contains the **backend code**, including RESTful APIs and busine
 - Input validation and schema management with Pydantic  
 - Modular structure: routes, models, schemas, CRUD logic, and utilities  
 
+## Author
 
+Abi Lt – Full Stack Web Developer
+https://github.com/abilt5991
